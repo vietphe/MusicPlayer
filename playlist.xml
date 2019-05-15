@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_112" class="java.beans.XMLDecoder">
+ <object class="model.Song">
+  <void property="id">
+   <long>5278</long>
+  </void>
+  <void property="path">
+   <string>C:\Users\ENVY\Desktop\Musik\Dua Nhau Di Tron - Den_ Linh Cao [MP3 320kbps].mp3</string>
+  </void>
+  <void property="title">
+   <string>Dua Nhau Di Tron - Den_ Linh Cao [MP3 320kbps].mp3</string>
+  </void>
+ </object>
+</java>
